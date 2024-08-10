@@ -1,6 +1,6 @@
 {
     "name": "pxt-Alpha",
-    "description": "MakeCode extension for doing Bitwise Logic functions",
+    "description": "Alpha",
     "dependencies": {
         "core": "*",
         "radio": "*"
