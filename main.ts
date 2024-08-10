@@ -14,7 +14,7 @@ enum operator{
     //% block="F"
     zeroFillRightShift
 }
-//% weight=20 color=#05a167 icon="\uf101" block="Bitwise logic"
+//% weight=20 color=#ff0890 icon="\uf101" block="Bitwise logic"
 namespace ModeAlpha {
 
     
