@@ -1,0 +1,16 @@
+{
+    "name": "pxt-Alpha",
+    "description": "MakeCode extension for doing Bitwise Logic functions",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
