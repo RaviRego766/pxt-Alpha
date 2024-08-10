@@ -1,17 +1,17 @@
 /* *************** */
 /*We use block="string" to override the block drop-down text */
 enum operator{
-    //% block="&"
+    //% block="A"
     and,
-    //% block="|"
+    //% block="B"
     or,
-    //% block="^"
+    //% block="C"
     xor,
-    //% block="<<"
+    //% block="D"
     leftShift,
-    //% block=">>"
+    //% block="E"
     rightShift,
-    //% block=">>>"
+    //% block="F"
     zeroFillRightShift
 }
 //% weight=20 color=#05a167 icon="\uf101" block="Bitwise logic"
