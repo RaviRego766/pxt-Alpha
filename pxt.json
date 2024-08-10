@@ -1,16 +1,27 @@
 {
-    "name": "pxt-Alpha",
-    "description": "Alpha",
+    "name": "Alpha",
+    "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "microphone": "*"
     },
     "files": [
         "main.ts",
         "README.md"
     ],
+    "testFiles": [],
+    "public": true,
+    "targetVersions": {
+        "target": "2.0.25",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj",
+    "extension": {
+        "namespace": "alpha",
+        "label": "Configure",
+        "localUrl": "http://127.0.0.1:8080/index.html"
+    }
 }
